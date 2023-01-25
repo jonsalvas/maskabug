@@ -1,0 +1,23 @@
+{
+  "name": "maskabug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue/test-utils": "^2.2.7",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "maska": "^2.0.0",
+    "vite": "^4.0.0",
+    "vitest": "^0.22.1",
+
+    "jsdom": "^20.0.0"
+  }
+}
